@@ -1,3 +1,3 @@
 <?php 
-header("Location: http://saferoad.az");
+header("Location: http://yourdomain.az");
  ?>
